@@ -1,2 +1,2 @@
 # ReactNative
-Kendi react native notlarım için konlar klasörüne bakın.
+Kendi react native notlarım için konular klasörüne bakın.
