@@ -1,0 +1,1 @@
+//Button.js içinde kullanıldığı için ekstra açıklamayacağım
